@@ -1,4 +1,4 @@
-# Hi, I'm Carmit 🌸
+# You've reached Carmit's Git! Welcome aboard 🌺 🌸
 
 Welcome to my GitHub profile!  
 
