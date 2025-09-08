@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 - Currently studying Computer Science 🎓 and working on cool projects 🚀.  
 
-📧 You can reach me at: [your-email@gmail.com](mailto:carmityehudai@gmail.com)  
+📧 You can send me a[message](mailto:carmityehudai@gmail.com)  
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) 
 
 
