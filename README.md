@@ -1,11 +1,7 @@
-# You've reached Carmit's Git! Welcome aboard 🌺 🌸
+# You've reached Carmit's Git! Welcome aboard 🌺 
 
-Welcome to my GitHub profile!  
-
-## 🌸 About Me
-- 🎓 A happy Computer Science student, always curious and learning new things ✨  
-- 💻 I love creating with **Java**, **Python**, **C**, and **C++**
-- 🌱 Currently exploring opportunities as a **Junior Data Analyst** or **Software Engineer**
+## About Me
+I am a Computer Science student 🎓 who always curious about learning new things ✨ I like coding with **Java**, **Python**, **C**, and **C++** 💻 Currently exploring opportunities as a **Junior Data Analyst** or **Software Engineer** 🌱
 
 - Currently studying Computer Science 🎓 and working on cool projects 🚀.  
 
